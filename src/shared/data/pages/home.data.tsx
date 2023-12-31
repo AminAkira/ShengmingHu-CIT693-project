@@ -50,7 +50,7 @@ export const heroHome: HeroProps = {
         <span className="font-semibold underline decoration-primary-600 decoration-wavy decoration-1 underline-offset-2">
           NauCompany
         </span>{' '}
-        is a production ready template to start your new website using <em>Next.js</em> + <em>Tailwind CSS</em>.
+        is a production ready template to start your new website using <em>Next.js</em> .
       </span>{' '}
       It has been designed following Best Practices, SEO, Accessibility, Dark Mode, great Page Speed, image
       optimization.
