@@ -122,7 +122,7 @@ export const callToActionFaqs: CallToActionProps = {
   hasBackground: true,
   title: 'Still have questions?',
   subtitle:
-    `Exceeding expectations in customer service is not just about meeting needs, it's about creating memorable experiences that foster loyalty and satisfaction.`,
+    "Exceeding expectations in customer service is not just about meeting needs, it's about creating memorable experiences that foster loyalty and satisfaction.",
   callToAction: {
     text: 'Contact us',
     href: '/contact',
